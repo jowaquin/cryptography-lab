@@ -1,5 +1,5 @@
 # Experiment 3: Man-in-the-middle attack against two designs.
-# "The System Designer" series, Part 3 - Joaquin Thiogo
+# "The System Designer" series, Part 1 - Joaquin Thiogo
 
 import os
 

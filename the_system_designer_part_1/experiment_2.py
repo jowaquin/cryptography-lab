@@ -1,5 +1,5 @@
 # Experiment 2: Chat messages protected with AES-GCM.
-# "The System Designer" series, Part 2 - Joaquin Thiogo
+# "The System Designer" series, Part 1 - Joaquin Thiogo
 
 from cryptography.exceptions import InvalidTag
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
